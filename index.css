@@ -1,8 +1,74 @@
+/* Stylesheet for Basketball Scoreboard */
+
+:root {
+  /* font */
+  --ff-main: "Verdana", sans-serif;
+  --ff-score: monospace;
+  --fs-title: 2rem;
+  --fs-score: 5rem;
+
+  /* colors */
+  --clr-bg-main: #1B244A; /* dark blue */
+  --clr-bg-score: #080001; /* black */
+  --clr-text: #EEEEEE; /* white */
+  --clr-score: ; /* red */
+
+}
+
 body {
-    margin: 0;
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  background: var(--clr-bg-main);
+  height: 100vh;
+  justify-content: center;
+  align-content: center;
+  font-family: var(--ff-main);
+  text-align: center;
 }
 
 .container {
-    display: flex;
-    justify-content: space-around;
+  height: 385px;
+  width: 575px;
+  border-radius: 0px;
+  display: flex;
+  justify-content: space-around;
+  align-self: center;
+  color: var(--clr-text);
+
+}
+
+h3 {
+  font-size: var(--fs-title);
+}
+
+.score {
+  font-size: var(--fs-score);
+  font-family: var(--ff-score);
+  background: var(--clr-bg-score);
+  color: #F94F6D;
+  height: 120px;
+  width: 155px;
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+button {
+  width: 45px;
+  height: 45px;
+  background: var(--clr-bg-main);
+  border: 2px solid var(--clr-text);
+  color: var(--clr-text);
+  border-radius: 5px;
+  margin: 26px 1px 0px 1px;
+}
+
+button:hover {
+  background: var(--clr-text);
+  border: 2px solid var(--clr-bg-main);
+  color: var(--clr-bg-main);
 }
