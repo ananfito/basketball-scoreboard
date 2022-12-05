@@ -5,6 +5,7 @@ My solution to the [Basketball Scoreboard solo project](https://scrimba.com/lear
 
 - [Overview](#overview)
 - [Screenshot](#screenshot)
+- [My Process](#my-process)
 - [Status](#status)
 
 ## Overview
@@ -36,3 +37,9 @@ The original project specifications only required the addition of points, but I 
 ## Status
 
 Live version: [https://ananfito.github.io/basketball-scoreboard](https://ananfito.github.io/basketball-scoreboard)
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/anthonynanfito)
+- [Portfolio](https://ananfito.github.io)
+- [Blog](https://ananfito.hashnode.dev)
