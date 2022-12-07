@@ -24,7 +24,7 @@ The scoreboard should have the ability to add the following points for both the 
 
 ## My Process
 
-As part of the project, a skeleton outline of the HTML and CSS files were provided, but the JavaScript was blank. I started by filling in the missing pieces in the HTLM file and then adding styling to the CSS file to match the design specifications. Finally, I added the JavaScript variables and functions to make the scoreboard functional.
+As part of the project, a skeleton outline of the HTML and CSS files were provided, but the JavaScript was blank. I started by filling in the missing pieces in the HTML file and then adding styling to the CSS file to match the design specifications. Finally, I added the JavaScript variables and functions to make the scoreboard functional.
 
 The original project specifications only required the addition of points, but I added the ability to subtract a point (in case of an error) and the ability to reset the scores (without having to refresh the page).
 
