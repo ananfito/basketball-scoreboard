@@ -40,6 +40,7 @@ Live version: [https://ananfito.github.io/basketball-scoreboard](https://ananfit
 
 ## Connect
 
+- [Email](https://anthonynanfito.com/contact/)
 - [LinkedIn](https://linkedin.com/in/anthonynanfito)
 - [Portfolio](https://ananfito.github.io)
 - [Blog](https://ananfito.hashnode.dev)
